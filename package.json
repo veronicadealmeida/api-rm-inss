@@ -1,0 +1,26 @@
+{
+  "name": "api-rm-inss",
+  "version": "1.0.0",
+  "description": "Essa API simula uma integração com o módulo de RM para o relatório de INSS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veronicadealmeida/api-rm-inss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veronicadealmeida/api-rm-inss/issues",
+    "type": "module"
+  },
+  "homepage": "https://github.com/veronicadealmeida/api-rm-inss#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "type": "module"
+  }
+}
