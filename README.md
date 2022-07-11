@@ -1,4 +1,4 @@
-# API-RM-inss
+# API-RM-INSS
 
 Essa API simula uma integração com o módulo de RM para o relatório de INSS.<br>
 Ela será iniciada na porta 3002<br>
@@ -11,7 +11,7 @@ Ela será iniciada na porta 3002<br>
 - Baixar a pasta api-inss-rm, descompactá-la no seu diretório local; <br>
 - Acessar a pasta api-inss-rm pelo prompt de comando:
   ```powershell
-  > cd api-inss-rm
+  > cd api-inss-rm-main
   ```
 - instalar as dependências do node express:
 
